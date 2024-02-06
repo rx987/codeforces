@@ -1,3 +1,3 @@
-£ codeforces
+## codeforces
 
 Codeforces solutions.
